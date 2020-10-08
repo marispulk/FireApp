@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-12c55": {
+      "hosting": {
+        "fire-app": [
+          "fire-12c55"
+        ]
+      }
+    }
+  }
+}
